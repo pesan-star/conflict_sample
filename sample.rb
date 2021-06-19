@@ -1,1 +1,1 @@
-puts "Hellow World!!"
+puts "おはよう！！"
